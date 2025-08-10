@@ -170,5 +170,9 @@ Adjust the grid size by modifying the `GAME_SIZE` constant and CSS grid classes.
 
 
 ---
+<img width="1482" height="723" alt="Screenshot 2025-08-10 155214" src="https://github.com/user-attachments/assets/bc84ea42-3164-485e-ba88-018e1e2506f5" />
+<img width="1561" height="922" alt="Screenshot 2025-08-10 155226" src="https://github.com/user-attachments/assets/a803a2db-52d4-4da6-9f9a-ee31191e0139" />
+<img width="1841" height="893" alt="Screenshot 2025-08-10 155256" src="https://github.com/user-attachments/assets/409759d5-a706-41e9-a8bb-32f9fa079c3a" />
+<img width="930" height="383" alt="Screenshot 2025-08-10 155313" src="https://github.com/user-attachments/assets/56791460-44cc-4525-be62-094b47c44733" />
 
 **Happy Gaming! 🎮✨**
