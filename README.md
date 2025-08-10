@@ -152,22 +152,6 @@ const CARD_SYMBOLS = ['🐶', '🐱', '🐭', '🐹', '🐰', '🦊', '🐻', '�
 ### Game Size
 Adjust the grid size by modifying the `GAME_SIZE` constant and CSS grid classes.
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Add environment variables in Vercel dashboard
-4. Deploy!
-
-### Other Platforms
-
-The app can be deployed to any platform that supports Next.js:
-- Netlify
-- AWS Amplify
-- DigitalOcean App Platform
-- Railway
 
 ## 🤝 Contributing
 
@@ -177,7 +161,6 @@ The app can be deployed to any platform that supports Next.js:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-
 ## 🙏 Acknowledgments
 
 - **Next.js** team for the amazing framework
@@ -185,13 +168,6 @@ The app can be deployed to any platform that supports Next.js:
 - **Supabase** for the backend-as-a-service platform
 - **React** team for the incredible UI library
 
-## 📞 Support
-
-If you have any questions or need help:
-
-1. Check the [Issues](../../issues) section
-2. Create a new issue with your question
-3. Contact the maintainers
 
 ---
 
